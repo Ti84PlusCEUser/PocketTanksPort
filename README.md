@@ -1,6 +1,6 @@
 # PocketTanksPort
 
-PocketTanksPort is an ECE319K embedded-systems game for the TI MSPM0G3507 LaunchPad. It uses the LaunchPad controls, an ST7735 display, and the onboard/audio DAC support to run the game directly on the microcontroller.
+PocketTanksPort is an ECE319K embedded-systems game I created during Spring 2025 for the TI MSPM0G3507 LaunchPad. It uses the LaunchPad controls, an ST7735 display, and the onboard/audio DAC support to run the game directly on the microcontroller.
 
 ## Requirements
 
