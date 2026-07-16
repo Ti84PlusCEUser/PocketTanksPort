@@ -1,0 +1,20 @@
+# Code Composer Studio / TI generated build output
+Debug/
+.settings/
+.theia/
+.clangd
+*.out
+*.map
+*.o
+*.d
+*_linkInfo.xml
+compile_commands.json
+
+# Windows and editor temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*.swo
+*~
+
