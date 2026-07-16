@@ -1,7 +1,7 @@
 // SmallFont.c
 
 #include <stdint.h>
-#include <SmallFont.h>
+#include "proj/SmallFont.h"
 
 #include "inc/ST7735.h"
 // 5 wide, 6 tall images

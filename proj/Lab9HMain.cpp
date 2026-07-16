@@ -13,10 +13,10 @@
 #include "inc/Timer.h"
 #include "inc/SlidePot.h"
 #include "inc/DAC5.h"
-#include "SmallFont.h"
-#include "LED.h"
-#include "Switch.h"
-#include "Sound.h"
+#include "proj/SmallFont.h"
+#include "proj/LED.h"
+#include "proj/Switch.h"
+#include "proj/Sound.h"
 #include "images/images.h"
 #include <math.h>
 extern "C" void __disable_irq(void);
