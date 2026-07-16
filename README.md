@@ -18,8 +18,6 @@ PocketTanksPort is an ECE319K embedded-systems game for the TI MSPM0G3507 Launch
 - Five-resistor binary-weighted DAC/audio circuit and a small amplified speaker or audio input
 - Breadboard, jumper wires, and a USB cable for the LaunchPad
 
-Use the resistor-ladder and audio-output circuit from the ECE319K DAC lab. The resistor values are not defined in this software repository; do not connect a speaker directly to a GPIO pin.
-
 ## Wiring and pin mapping
 
 All external inputs must share LaunchPad ground. `Switch_Init()` configures PA24-PA27 as GPIO inputs with no internal pull resistors, so wire each button so that released = logic 0 and pressed = logic 1 (for example, an external pulldown resistor with the button connected to 3.3 V).
