@@ -1,5 +1,5 @@
 /*****************************************************************************
- Special MSPM0_ValvanoWare version with Hardfault handler implemented
+ Special MSPM0 startup version with Hardfault handler implemented
  
   Copyright (C) 2023 Texas Instruments Incorporated - http://www.ti.com/ 
 
